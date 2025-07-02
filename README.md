@@ -42,3 +42,7 @@ Diseñar e implementar un sistema de base de datos relacional para la Fundación
 - Seguridad en el manejo de datos sensibles.
 - Escalabilidad para acompañar el crecimiento de la base de datos.
 - Compatibilidad con tecnologías ampliamente utilizadas en entornos corporativos (como **SQL Server**).
+
+ ## Observación
+
+ Este proyecto tiene un propósito académico, por lo que las entidades, acciones y necesidades representadas fueron diseñadas con fines ilustrativos. Si bien buscan reflejar situaciones reales de manera representativa, no reproducen fielmente la realidad.
